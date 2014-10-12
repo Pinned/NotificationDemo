@@ -1,4 +1,4 @@
-package cn.jpush.notificationdemo;
+package cn.pinned.demo.notificationdemo1;
 
 import android.app.Activity;
 import android.content.Intent;

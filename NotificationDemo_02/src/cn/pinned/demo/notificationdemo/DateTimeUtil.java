@@ -1,4 +1,4 @@
-package cn.jpush.notificationdemo;
+package cn.pinned.demo.notificationdemo;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -6,11 +6,8 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
 
-import android.text.format.DateFormat;
-import android.util.Log;
-
 /**
- * Created by luozc on Jul 23, 2014
+ * Created by pinned on Jul 23, 2014
  */
 
 public final class DateTimeUtil {
